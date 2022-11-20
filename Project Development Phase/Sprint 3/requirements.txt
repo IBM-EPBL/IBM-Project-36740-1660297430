@@ -1,0 +1,7 @@
+flask
+requests
+ibm_db
+jsons
+sqlalchemy
+flask_mail
+markupsafe
